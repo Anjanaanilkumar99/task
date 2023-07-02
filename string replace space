@@ -1,0 +1,5 @@
+string = "I am a doctor";  
+ch = '--';  
+string = string.replace(' ', ch);  
+print("String after replacing spaces with given character: ");  
+print(string);
